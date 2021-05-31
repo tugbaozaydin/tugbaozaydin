@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I,m Tuğba Özaydın from Turkey
+## I'm Tuğba Özaydın from Turkey
 
 ![alt text](https://github-readme-stats.vercel.app/api/top-langs/?username=tugbaozaydin&exclude_repo=cem_clipnet&layout=compact&theme=radical)
 ![alt text](https://github-readme-stats.vercel.app/api?username=tugbaozaydin&show_icons=true&theme=radical)
